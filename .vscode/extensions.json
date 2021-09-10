@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "eamodio.gitlens",
+        "ms-toolsai.jupyter",
+        "ms-python.vscode-pylance",
+        "visualstudioexptteam.vscodeintellicode",
+        "matangover.mypy",
+        "shardulm94.trailing-spaces",
+        "esbenp.prettier-vscode"
+    ]
+}

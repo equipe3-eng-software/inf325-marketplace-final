@@ -1,0 +1,17 @@
+[
+  {
+    "products": [
+      {
+        "product_id": "",
+        "product_name": "",
+        "qtd": 0
+      }
+    ],
+    "type": "",
+    "name": "",
+    "description": "",
+    "recurrence": "Date",
+    "price": 0,
+    "status": ""
+  }
+]
