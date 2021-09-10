@@ -1,0 +1,32 @@
+[
+  {
+    "description": "Cafe Gourmet",
+    "name": "Café",
+    "price": "5,00",
+    "products": [
+      {
+        "item": "002",
+        "product_name": "Café",
+        "qtd": 3
+      }
+    ],
+    "recurrence": "monthly",
+    "status": "Ativo",
+    "type": "drink"
+  },
+  {
+    "description": "Cesta de Chocolate",
+    "name": "Chocolate",
+    "price": "10,00",
+    "products": [
+      {
+        "product_id": "001",
+        "product_name": "Chocolate",
+        "qtd": 1
+      }
+    ],
+    "recurrence": "weekly",
+    "status": "Ativo",
+    "type": "candy"
+  }
+]

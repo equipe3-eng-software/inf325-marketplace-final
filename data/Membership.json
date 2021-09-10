@@ -1,0 +1,62 @@
+[
+  {
+    "address": "Rua Vergueiro",
+    "city": "São Paulo",
+    "country": "Brasil",
+    "email": "lucas.franzolin@gmail.com",
+    "lastname": "Franzolin",
+    "membership": "Platinum",
+    "name": "Lucas",
+    "password": "marketplace@2021",
+    "payment": "Boleto",
+    "postal_code": "12345-501",
+    "status": "Ativo",
+    "subscription": "Chocolate",
+    "username": "lucas.franzolin"
+  },
+  {
+    "address": "Avenida Ibirapuera",
+    "city": "São Paulo",
+    "country": "Brasil",
+    "email": "marina.soares@gmail.com",
+    "lastname": "Soares",
+    "membership": "Silver",
+    "name": "Marina",
+    "password": "marketplace@2021",
+    "payment": "Pix",
+    "postal_code": "12345-503",
+    "status": "Ativo",
+    "subscription": "Café",
+    "username": "marina.soares"
+  },
+  {
+    "address": "Avenida Morumbi",
+    "city": "São Paulo",
+    "country": "Brasil",
+    "email": "victor.oliveira@gmail.com",
+    "lastname": "H. Oliveira",
+    "membership": "Platinum",
+    "name": "Victor",
+    "password": "marketplace@2021",
+    "payment": "Boleto",
+    "postal_code": "12345-504",
+    "status": "Ativo",
+    "subscription": "Chocolate",
+    "username": "victor.oliveira"
+  },
+  {
+    "address": "Rua Brigadeiro Luis Antonio",
+    "city": "São Paulo",
+    "country": "Brasil",
+    "email": "luis.costa@gmail.com",
+    "lastname": "G. Costa",
+    "membership": "Gold",
+    "name": "Luís",
+    "password": "marketplace@2021",
+    "payment": "Cartão de Crédito",
+    "postal_code": "12345-502",
+    "status": "Ativo",
+    "subscription": "Café",
+    "username": "luis.costa"
+  }
+]

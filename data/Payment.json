@@ -1,0 +1,17 @@
+[
+  {
+    "currency": "BRL",
+    "method": "credit-card",
+    "name": "Cartão de Crédito"
+  },
+  {
+    "currency": "BRL",
+    "method": "ticket",
+    "name": "Boleto"
+  },
+  {
+    "currency": "BRL",
+    "method": "pix",
+    "name": "PIX"
+  }
+]

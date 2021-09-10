@@ -1,0 +1,23 @@
+[
+  {
+    "description": "Cesta de Chocolate",
+    "item": "001",
+    "product_name": "Chocolate",
+    "size": 50,
+    "sku": "cesta-chocolate-001"
+  },
+  {
+    "description": "Cafe Gourmet",
+    "item": "002",
+    "product_name": "cafe",
+    "size": 100,
+    "sku": "cafe-gourmet-001"
+  },
+  {
+    "description": "Test Edited",
+    "item": "123",
+    "product_name": "test",
+    "size": 1,
+    "sku": "test-123"
+  }
+]
