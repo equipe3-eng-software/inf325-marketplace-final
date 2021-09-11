@@ -1,14 +1,14 @@
 [
   {
-    "description": "Serras e montanhas com altitudes que variam de 850 a 1.250 metros emolduram a maior região produtora de café do mundo. O Sul de Minas é um terroir excelente de onde saem cerca de 10 milhões de sacas de café a cada ano. O resultado do café é uma bebida encorpada, de sabor adocicado, com notas de castanhas e amêndoas, aroma intenso e acidez cítrica média.",
-    "product_name": "Café Torrado e Moído Sul de Minas Rituais 3 Corações Pacote 250g",
+    "description": "Serras e montanhas com altitudes que variam de 850 a 1.250 metros emolduram a maior regiao produtora de cafe do mundo. O Sul de Minas e um terroir excelente de onde saem cerca de 10 milhoes de sacas de cafe a cada ano. O resultado do cafe e uma bebida encorpada, de sabor adocicado, com notas de castanhas e amêndoas, aroma intenso e acidez citrica media.",
+    "product_name": "Cafe Torrado e Moido Sul de Minas Rituais 3 Coracoes Pacote 250g",
     "sku": "cafe-gourmet-3-coracoes-mineiro-250g",
     "type": "cafe",
     "price": 11
   },
   {
-    "description": "Com pelo menos 200 anos de tradição, a região de Mogiana Paulista se localiza no interior de São Paulo e é privilegiada para o cultivo de cafés especiais. O clima ideal e sua altitude entre 900 e 1050 metros resulta em uma bebida que vai te surpreender.",
-    "product_name": "Café 3 Corações Gourmet Mogiana Paulista 250g",
+    "description": "Com pelo menos 200 anos de tradicao, a regiao de Mogiana Paulista se localiza no interior de Sao Paulo e e privilegiada para o cultivo de cafes especiais. O clima ideal e sua altitude entre 900 e 1050 metros resulta em uma bebida que vai te surpreender.",
+    "product_name": "Cafe 3 Coracoes Gourmet Mogiana Paulista 250g",
     "sku": "cafe-gourmet-3-coracoes-mogiana-paulista-250g",
     "type": "cafe",
     "price": 10.29
@@ -21,14 +21,14 @@
     "price": 6.99
   },
   {
-    "description": "O grande vinho do Château Latour, nome que já diz muito sobre o vinho, esbanja requinte, muita personalidade, e foi comentado pelos principais críticos. A safra 2011 foi considerada boa e cada uma das uvas foi acompanhada para a colheita ocorrer no momento oportuno, com o objetivo de garantir harmonia ao primeiro vinho do Château, que é um Premier Grand Cru Classé.",
+    "description": "O grande vinho do Château Latour, nome que ja diz muito sobre o vinho, esbanja requinte, muita personalidade, e foi comentado pelos principais criticos. A safra 2011 foi considerada boa e cada uma das uvas foi acompanhada para a colheita ocorrer no momento oportuno, com o objetivo de garantir harmonia ao primeiro vinho do Château, que e um Premier Grand Cru Classe.",
     "product_name": "Chateau Latour 2011",
     "sku": "chateau-latour-2011",
     "type": "bebida",
     "price": 12474.32
   },
   {
-    "description": "Um exemplar que carrega a qualidade dos vinhos Italianos, cultivado na nobre região da Toscana. O Brunello di Montalcino Gauggiole é um varietal de Sangiovese que em taça apresenta a encantadora cor vermelha em tom rubi claro, acompanhada do seu aroma de cerejas com notas de cravo e especiarias. O paladar é de médio corpo com taninos elegantes e finos. Ideal para harmonizar com carnes vermelhas assadas e risotos.",
+    "description": "Um exemplar que carrega a qualidade dos vinhos Italianos, cultivado na nobre regiao da Toscana. O Brunello di Montalcino Gauggiole e um varietal de Sangiovese que em taca apresenta a encantadora cor vermelha em tom rubi claro, acompanhada do seu aroma de cerejas com notas de cravo e especiarias. O paladar e de medio corpo com taninos elegantes e finos. Ideal para harmonizar com carnes vermelhas assadas e risotos.",
     "product_name": "Brunello Di Montalcino Gauggiole",
     "sku": "brunello-di-montalcino-gauggiole",
     "type": "bebida",
@@ -42,7 +42,7 @@
     "price": 149.99
   },
   {
-    "description": "Kit de Meias Cano Médio adidas com 6 Pares.",
+    "description": "Kit de Meias Cano Medio adidas com 6 Pares.",
     "product_name": "Kit de Meias Adidas preta",
     "sku": "kit-meias-adidas-preta-6",
     "type": "roupa",

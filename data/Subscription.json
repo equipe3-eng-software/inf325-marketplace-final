@@ -1,15 +1,15 @@
 [
   {
-    "description": "Kit 4 Café Gourmet.",
+    "description": "Kit 4 Cafe Gourmet.",
     "price": 22.5,
     "products": [
       {
         "sku": "cafe-gourmet-3-coracoes-mineiro-250g",
-        "product_name": "Café Torrado e Moído Sul de Minas Rituais 3 Corações Pacote 250g",
+        "product_name": "Cafe Torrado e Moido Sul de Minas Rituais 3 Coracoes Pacote 250g",
         "qtd": 2
       },
       {
-        "product_name": "Café 3 Corações Gourmet Mogiana Paulista 250g",
+        "product_name": "Cafe 3 Coracoes Gourmet Mogiana Paulista 250g",
         "sku": "cafe-gourmet-3-coracoes-mogiana-paulista-250g",
         "qtd": 2
       }
