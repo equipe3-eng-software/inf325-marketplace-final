@@ -31,11 +31,9 @@ def reset_db():
             docs = data_dict[collection]
             db[collection].drop()  # DROP
             db[collection].insert_many(docs)  # INSERT
+            print(f"after {collection} = {db[collection].count_documents({})}")
         except:
             print("ops")
-
-    for collection in collections:
-        print(f"after {collection} = {db[collection].count_documents({})}")
 
     return
 
