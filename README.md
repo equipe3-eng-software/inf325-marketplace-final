@@ -9,14 +9,6 @@
 
   `py -m pip install virtualenv`
 
-- Install `cufflinks` globally:
-
-  `py -m pip install cufflinks`
-
-- Install `plotly` globally:
-
-  `py -m pip install plotly`
-
 # Setup machine
 
 ### 1. Create virtual env
