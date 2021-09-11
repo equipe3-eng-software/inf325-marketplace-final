@@ -44,7 +44,13 @@ db.createCollection("Customer", {
               bsonType: "array",
               uniqueItems: true,
               items: {
-                required: ["_id", "currency", "method", "name", "payment"],
+                required: [
+                  "_id",
+                  "currency",
+                  "payment_method",
+                  "sub_id",
+                  "sub_name",
+                ],
                 properties: {
                   currency: { bsonType: "string" },
                   payment_method: { bsonType: "string" },
