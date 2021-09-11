@@ -26,12 +26,14 @@ def reset_db():
         f.close()
 
     for collection in data_dict.keys():
-        print(f"before {collection} = {db[collection].count_documents({})}")
+        print(
+            f"before {collection} = {db[collection].count_documents({})}")
         try:
             docs = data_dict[collection]
             db[collection].drop()  # DROP
             db[collection].insert_many(docs)  # INSERT
-            print(f"after {collection} = {db[collection].count_documents({})}")
+            print(
+                f"after {collection} = {db[collection].count_documents({})}")
         except:
             print("ops")
 
