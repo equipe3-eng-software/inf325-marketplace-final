@@ -1,32 +1,69 @@
 [
   {
-    "description": "Cafe Gourmet",
-    "name": "Café",
-    "price": "5,00",
+    "description": "Kit 4 Café Gourmet.",
+    "price": 22.5,
     "products": [
       {
-        "item": "002",
-        "product_name": "Café",
-        "qtd": 3
+        "sku": "cafe-gourmet-3-coracoes-mineiro-250g",
+        "product_name": "Café Torrado e Moído Sul de Minas Rituais 3 Corações Pacote 250g",
+        "qtd": 2
+      },
+      {
+        "product_name": "Café 3 Corações Gourmet Mogiana Paulista 250g",
+        "sku": "cafe-gourmet-3-coracoes-mogiana-paulista-250g",
+        "qtd": 2
       }
     ],
-    "recurrence": "monthly",
-    "status": "Ativo",
-    "type": "drink"
+    "recurrence": "mensal",
+    "status": "ativo"
   },
   {
-    "description": "Cesta de Chocolate",
-    "name": "Chocolate",
-    "price": "10,00",
+    "description": "Cesta de chocolate ao leite.",
+    "price": 30,
     "products": [
       {
-        "product_id": "001",
-        "product_name": "Chocolate",
+        "sku": "chocolate-garoto-ao-leite-90g",
+        "product_name": "Chocolate ao Leite Garoto 90g",
+        "qtd": 6
+      }
+    ],
+    "recurrence": "semanal",
+    "status": "ativo"
+  },
+  {
+    "description": "Caixa de vinhos importados.",
+    "price": 30000,
+    "products": [
+      {
+        "product_name": "Chateau Latour 2011",
+        "sku": "chateau-latour-2011",
+        "qtd": 6
+      },
+      {
+        "product_name": "Brunello Di Montalcino Gauggiole",
+        "sku": "brunello-di-montalcino-gauggiole",
+        "qtd": 6
+      }
+    ],
+    "recurrence": "mensal",
+    "status": "ativo"
+  },
+  {
+    "description": "Combo de meias masculinas pretas e brancas.",
+    "price": 329.9,
+    "products": [
+      {
+        "product_name": "Kit de Meias Cano Alto Nike Everyday Crew",
+        "sku": "kit-meias-nike-alto-everyday-crew-3",
+        "qtd": 1
+      },
+      {
+        "product_name": "Kit de Meias Adidas preta",
+        "sku": "kit-meias-adidas-preta-6",
         "qtd": 1
       }
     ],
-    "recurrence": "weekly",
-    "status": "Ativo",
-    "type": "candy"
+    "recurrence": "trimestral",
+    "status": "ativo"
   }
 ]
