@@ -4,7 +4,7 @@ import os
 import json
 
 # Conectar a instância do MongoDB implantado na AWS
-client = MongoClient('3.86.205.77', 27017)
+client = MongoClient('54.173.190.125', 27017)
 
 # Criando uma nova referência para o banco de dados desejado
 db = client.trabalho
