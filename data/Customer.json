@@ -10,7 +10,9 @@
     "payment": "Cartao de Credito",
     "postal_code": "12345-500",
     "status": "ativo",
-    "username": "jean.silva"
+    "username": "jean.silva",
+    "membership": "gold",
+    "subscriptions": []
   },
   {
     "address": "Rua Vergueiro",
@@ -23,7 +25,9 @@
     "payment": "Boleto",
     "postal_code": "12345-501",
     "status": "ativo",
-    "username": "lucas.franzolin"
+    "username": "lucas.franzolin",
+    "membership": "gold",
+    "subscriptions": []
   },
   {
     "address": "Rua Brigadeiro Luis Antonio",
@@ -36,7 +40,9 @@
     "payment": "Cartao de Credito",
     "postal_code": "12345-502",
     "status": "ativo",
-    "username": "luis.costa"
+    "username": "luis.costa",
+    "membership": "basic",
+    "subscriptions": []
   },
   {
     "address": "Avenida Ibirapuera",
@@ -49,7 +55,9 @@
     "payment": "Pix",
     "postal_code": "12345-503",
     "status": "ativo",
-    "username": "marina.soares"
+    "username": "marina.soares",
+    "membership": "platinum",
+    "subscriptions": []
   },
   {
     "address": "Avenida Morumbi",
@@ -62,6 +70,8 @@
     "payment": "Boleto",
     "postal_code": "12345-504",
     "status": "inativo",
-    "username": "victor.oliveira"
+    "username": "victor.oliveira",
+    "membership": "silver",
+    "subscriptions": []
   }
 ]
