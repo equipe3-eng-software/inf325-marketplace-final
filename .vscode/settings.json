@@ -17,5 +17,8 @@
     "trailing-spaces.trimOnSave": true,
     "editor.rulers": [
         100
+    ],
+    "cSpell.words": [
+        "pymongo"
     ]
 }

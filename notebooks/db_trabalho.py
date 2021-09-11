@@ -2,9 +2,11 @@ from pymongo import MongoClient
 from pathlib import Path
 import os
 import json
+import warnings
+warnings.filterwarnings('ignore')
 
 # Conectar a instância do MongoDB implantado na AWS
-client = MongoClient('52.23.159.54', 27017)
+client = MongoClient('3.86.205.77', 27017)
 
 # Criando uma nova referência para o banco de dados desejado
 db = client.trabalho
