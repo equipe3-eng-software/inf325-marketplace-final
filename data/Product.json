@@ -1,51 +1,51 @@
 [
   {
     "description": "Serras e montanhas com altitudes que variam de 850 a 1.250 metros emolduram a maior regiao produtora de cafe do mundo. O Sul de Minas e um terroir excelente de onde saem cerca de 10 milhoes de sacas de cafe a cada ano. O resultado do cafe e uma bebida encorpada, de sabor adocicado, com notas de castanhas e amêndoas, aroma intenso e acidez citrica media.",
+    "price": 11,
     "product_name": "Cafe Torrado e Moido Sul de Minas Rituais 3 Coracoes Pacote 250g",
     "sku": "cafe-gourmet-3-coracoes-mineiro-250g",
-    "type": "cafe",
-    "price": 11
+    "type": "cafe"
   },
   {
     "description": "Com pelo menos 200 anos de tradicao, a regiao de Mogiana Paulista se localiza no interior de Sao Paulo e e privilegiada para o cultivo de cafes especiais. O clima ideal e sua altitude entre 900 e 1050 metros resulta em uma bebida que vai te surpreender.",
+    "price": 10.29,
     "product_name": "Cafe 3 Coracoes Gourmet Mogiana Paulista 250g",
     "sku": "cafe-gourmet-3-coracoes-mogiana-paulista-250g",
-    "type": "cafe",
-    "price": 10.29
+    "type": "cafe"
   },
   {
     "description": "Nada explicava os paranauê do brasileiro. De onde viria esse jeito zoeira de ser? Sempre disseram que o brasileiro precisa ser estudado. E a Garoto assumiu esse desafio. Descobriu que o melhor do brasileiro vem do cacau.",
+    "price": 6.99,
     "product_name": "Chocolate ao Leite Garoto 90g",
     "sku": "chocolate-garoto-ao-leite-90g",
-    "type": "doce",
-    "price": 6.99
+    "type": "doce"
   },
   {
     "description": "O grande vinho do Château Latour, nome que ja diz muito sobre o vinho, esbanja requinte, muita personalidade, e foi comentado pelos principais criticos. A safra 2011 foi considerada boa e cada uma das uvas foi acompanhada para a colheita ocorrer no momento oportuno, com o objetivo de garantir harmonia ao primeiro vinho do Château, que e um Premier Grand Cru Classe.",
+    "price": 12474.32,
     "product_name": "Chateau Latour 2011",
     "sku": "chateau-latour-2011",
-    "type": "bebida",
-    "price": 12474.32
+    "type": "bebida"
   },
   {
     "description": "Um exemplar que carrega a qualidade dos vinhos Italianos, cultivado na nobre regiao da Toscana. O Brunello di Montalcino Gauggiole e um varietal de Sangiovese que em taca apresenta a encantadora cor vermelha em tom rubi claro, acompanhada do seu aroma de cerejas com notas de cravo e especiarias. O paladar e de medio corpo com taninos elegantes e finos. Ideal para harmonizar com carnes vermelhas assadas e risotos.",
+    "price": 321.11,
     "product_name": "Brunello Di Montalcino Gauggiole",
     "sku": "brunello-di-montalcino-gauggiole",
-    "type": "bebida",
-    "price": 321.11
+    "type": "bebida"
   },
   {
     "description": "Kit de Meias Cano Alto Nike Everyday Crew com 3 Pares",
+    "price": 149.99,
     "product_name": "Kit de Meias Cano Alto Nike Everyday Crew",
     "sku": "kit-meias-nike-alto-everyday-crew-3",
-    "type": "roupa",
-    "price": 149.99
+    "type": "roupa"
   },
   {
     "description": "Kit de Meias Cano Medio adidas com 6 Pares.",
+    "price": 69.99,
     "product_name": "Kit de Meias Adidas preta",
     "sku": "kit-meias-adidas-preta-6",
-    "type": "roupa",
-    "price": 69.99
+    "type": "roupa"
   }
 ]

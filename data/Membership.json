@@ -1,66 +1,46 @@
 [
   {
-    "title": "Gold",
-    "name": "Gold",
-    "description": "Membros Categoria Gold",
     "benefits": [
       {
         "type_subscription": "gold",
         "free_shipping": true,
         "discount": 0.1
-      },
-      {
-        "free_shipping": true,
-        "discount": 0.1
       }
-    ]
+    ],
+    "description": "Assinatura Gold",
+    "name": "gold"
   },
   {
-    "title": "Silver",
-    "name": "Silver",
-    "description": "Membros Categoria Silver",
     "benefits": [
       {
         "type_subscription": "silver",
         "free_shipping": true,
         "discount": 0.07
-      },
-      {
-        "free_shipping": true,
-        "discount": 0.07
       }
-    ]
+    ],
+    "description": "Assinatura Silver",
+    "name": "silver"
   },
   {
-    "title": "Platinum",
-    "name": "Platinum",
-    "description": "Membros Categoria Platinum",
     "benefits": [
       {
         "type_subscription": "platinum",
         "free_shipping": true,
         "discount": 0.15
-      },
-      {
-        "free_shipping": true,
-        "discount": 0.15
       }
-    ]
+    ],
+    "description": "Assinatura Platinum",
+    "name": "platinum"
   },
   {
-    "title": "Basic",
-    "name": "Basic",
-    "description": "Membros Categoria Basic",
     "benefits": [
       {
         "type_subscription": "basic",
         "free_shipping": false,
         "discount": 0
-      },
-      {
-        "free_shipping": true,
-        "discount": 0
       }
-    ]
+    ],
+    "description": "Assinatura Basic",
+    "name": "basic"
   }
 ]
