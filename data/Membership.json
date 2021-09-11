@@ -1,46 +1,46 @@
 [
   {
-    "name": "gold",
-    "description": "Assinatura Gold",
     "benefits": [
       {
         "type_subscription": "gold",
         "free_shipping": true,
         "discount": 0.1
       }
-    ]
+    ],
+    "description": "Assinatura Gold",
+    "name": "gold"
   },
   {
-    "name": "silver",
-    "description": "Assinatura Silver",
     "benefits": [
       {
         "type_subscription": "silver",
         "free_shipping": true,
         "discount": 0.07
       }
-    ]
+    ],
+    "description": "Assinatura Silver",
+    "name": "silver"
   },
   {
-    "name": "platinum",
-    "description": "Assinatura Platinum",
     "benefits": [
       {
         "type_subscription": "platinum",
         "free_shipping": true,
         "discount": 0.15
       }
-    ]
+    ],
+    "description": "Assinatura Platinum",
+    "name": "platinum"
   },
   {
-    "name": "basic",
-    "description": "Assinatura Basic",
     "benefits": [
       {
         "type_subscription": "basic",
         "free_shipping": false,
         "discount": 0
       }
-    ]
+    ],
+    "description": "Assinatura Basic",
+    "name": "basic"
   }
 ]

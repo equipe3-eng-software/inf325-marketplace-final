@@ -5,14 +5,14 @@
     "country": "Brasil",
     "email": "jean.silva@gmail.com",
     "lastname": "Silva",
+    "membership": "gold",
     "name": "Jean",
     "password": "marketplace@2021",
     "payment": "Cartao de Credito",
     "postal_code": "12345-500",
     "status": "ativo",
-    "username": "jean.silva",
-    "membership": "gold",
-    "subscriptions": []
+    "subscriptions": [],
+    "username": "jean.silva"
   },
   {
     "address": "Rua Vergueiro",
@@ -20,14 +20,14 @@
     "country": "Brasil",
     "email": "lucas.franzolin@gmail.com",
     "lastname": "Franzolin",
+    "membership": "gold",
     "name": "Lucas",
     "password": "marketplace@2021",
     "payment": "Boleto",
     "postal_code": "12345-501",
     "status": "ativo",
-    "username": "lucas.franzolin",
-    "membership": "gold",
-    "subscriptions": []
+    "subscriptions": [],
+    "username": "lucas.franzolin"
   },
   {
     "address": "Rua Brigadeiro Luis Antonio",
@@ -35,14 +35,14 @@
     "country": "Brasil",
     "email": "luis.costa@gmail.com",
     "lastname": "G. Costa",
+    "membership": "basic",
     "name": "Luis",
     "password": "marketplace@2021",
     "payment": "Cartao de Credito",
     "postal_code": "12345-502",
     "status": "ativo",
-    "username": "luis.costa",
-    "membership": "basic",
-    "subscriptions": []
+    "subscriptions": [],
+    "username": "luis.costa"
   },
   {
     "address": "Avenida Ibirapuera",
@@ -50,14 +50,14 @@
     "country": "Brasil",
     "email": "marina.soares@gmail.com",
     "lastname": "Soares",
+    "membership": "platinum",
     "name": "Marina",
     "password": "marketplace@2021",
     "payment": "Pix",
     "postal_code": "12345-503",
     "status": "ativo",
-    "username": "marina.soares",
-    "membership": "platinum",
-    "subscriptions": []
+    "subscriptions": [],
+    "username": "marina.soares"
   },
   {
     "address": "Avenida Morumbi",
@@ -65,13 +65,13 @@
     "country": "Brasil",
     "email": "victor.oliveira@gmail.com",
     "lastname": "H. Oliveira",
+    "membership": "silver",
     "name": "Victor",
     "password": "marketplace@2021",
     "payment": "Boleto",
     "postal_code": "12345-504",
     "status": "inativo",
-    "username": "victor.oliveira",
-    "membership": "silver",
-    "subscriptions": []
+    "subscriptions": [],
+    "username": "victor.oliveira"
   }
 ]
