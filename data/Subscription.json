@@ -65,5 +65,23 @@
     ],
     "recurrence": "trimestral",
     "status": "ativo"
+  },
+  {
+    "description": "Combo de meias masculinas pretas e brancas.",
+    "price": 619.9,
+    "products": [
+      {
+        "product_name": "Kit de Meias Cano Alto Nike Everyday Crew",
+        "sku": "kit-meias-nike-alto-everyday-crew-3",
+        "qtd": 2
+      },
+      {
+        "product_name": "Kit de Meias Adidas preta",
+        "sku": "kit-meias-adidas-preta-6",
+        "qtd": 2
+      }
+    ],
+    "recurrence": "semestral",
+    "status": "inativo"
   }
 ]
